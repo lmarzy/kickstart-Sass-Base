@@ -1,0 +1,16 @@
+{
+  "name": "kickstart-sass-Base",
+  "version": "1.0.0",
+  "description": "Kickstart Sass Base css for starting a new project",
+  "main": "index.js",
+  "repository": "https://github.com/lmarzy/kickstart-sass-Base.git",
+  "author": "lmarzy <me@phz3.net>",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rm -rf dist",
+    "sass": "node-sass --source-map=true src/main.scss -o dist/"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
