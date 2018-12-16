@@ -1,10 +1,10 @@
 // ========================================================================
-// TOOLS/FUNCTIONS/GET-SPACER
+// TOOLS/FUNCTIONS/GET-COLOUR
 // ========================================================================
 
 // usage
-// spacer(4);
+// color(red);
 
-@function spacer($val) {
-  @return get-value($val, $spacers);
+@function color($val) {
+  @return get-value($val, $colors);
 }

@@ -6,9 +6,6 @@
 $col-bg: #fff;
 $col-text: #444;
 
-$col-red: #ff5656;
-$col-blue: #4a9fff;
-
 // LINKS
 $col-links: #055edb;
 $col-links-hover: #052aa1;
@@ -18,7 +15,8 @@ $col-links-visited: #f03b3b;
 // MISC
 $col-borders: #ccc;
 
-$colorsMap: (
-  red: $col-red,
-  blue: $col-blue
+// MAP
+$colors: (
+  red: #ff5656,
+  blue: #4a9fff 
 );

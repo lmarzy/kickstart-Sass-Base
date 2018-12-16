@@ -2,7 +2,7 @@
 // UTILITIES/COLOURS
 // ========================================================================
 
-@each $theme, $color in $colorsMap {
+@each $theme, $color in $colors {
   .u-col-#{$theme} {
     color: $color !important;
   }
