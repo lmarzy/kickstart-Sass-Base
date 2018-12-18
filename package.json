@@ -1,5 +1,5 @@
 {
-  "name": "kickstart-sass-Base",
+  "name": "kickstart-sass",
   "version": "1.0.0",
   "description": "Kickstart Sass Base css for starting a new project",
   "main": "index.js",
