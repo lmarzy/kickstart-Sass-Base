@@ -1,2 +1,2 @@
 # kickstart-Sass-Base
-Kickstart Sass Base css for starting a new project
+Kickstart Sass css for starting a new project

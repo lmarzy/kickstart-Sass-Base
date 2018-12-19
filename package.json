@@ -1,7 +1,7 @@
 {
   "name": "kickstart-sass",
   "version": "1.0.0",
-  "description": "Kickstart Sass Base css for starting a new project",
+  "description": "Kickstart Sass for starting a new project",
   "main": "index.js",
   "repository": "https://github.com/lmarzy/kickstart-sass-Base.git",
   "author": "lmarzy <me@phz3.net>",
